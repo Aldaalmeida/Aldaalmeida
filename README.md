@@ -1,6 +1,6 @@
 <h3> :: &nbsp;Sobre mim </h3>
  
- - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+ - 🤔 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para Programação. Ansiosa para programar o próximo capítulo. Let's code! 🚀.
  - 💼 &nbsp; Trabalhando como **Desenvolvedor .NET** na <a href="https://www.linkedin.com/company/squadradigital/mycompany/verification/">Squadra Digital</a>
  
  <h3> :rocket: &nbsp;Minhas Skills </h3>
