@@ -1,6 +1,6 @@
-<h3> :: &nbsp;Sobre mim </h3>
+<h3> 😃 &nbsp;Sobre mim </h3>
  
- - 😃 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para Programação. Ansiosa para programar o próximo capítulo. Let's code! 🚀.
+ - 💻 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para Programação. Ansiosa para programar o próximo capítulo. Let's code! 🚀.
    
  - 📚 &nbsp; Atualmente estou destinando meus estudos para o Desenvolvimento Backend em C# / .Net, focando em cursos como:
    
