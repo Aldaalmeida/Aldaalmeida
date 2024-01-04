@@ -2,7 +2,7 @@
  
  - 😃 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para Programação. Ansiosa para programar o próximo capítulo. Let's code! 🚀.
    
- - 📚 &nbsp; Atualmente destinando meus estudos para o Desenvolvimento Backend em C# / .Net, focando em cursos como:
+ - 📚 &nbsp; Atualmente estou destinando meus estudos para o Desenvolvimento Backend em C# / .Net, focando em cursos como:
    
   - **Curso de Formação em Lógica de Programação - Digital Innovation One**
   - **C# Primeiros Passos: Lógica de Programação e Algoritmos - Udemy**
