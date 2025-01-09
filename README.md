@@ -1,12 +1,13 @@
 <h3> 😃 &nbsp;Sobre mim </h3>
  
- - 💻 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para o universo da Tecnologia da Informação. Tenho interesse em atuar nas áreas de Desenvolvimento Backend e/ou Testes de Software, explorando como ambas podem trabalhar juntas para criar soluções eficientes e de qualidade. Ansiosa para programar o próximo capítulo. Let's code! 🚀 🚀.
+💻 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para o universo da Tecnologia da Informação. Tenho interesse em atuar nas áreas de Desenvolvimento Backend e/ou Testes de Software, explorando como ambas podem trabalhar juntas para criar soluções eficientes e de qualidade. Ansiosa para programar o próximo capítulo. Let's code! 🚀 🚀.
    
- - 📚 &nbsp; Atualmente, tenho destinado meus estudos a cursos como:
+📚 &nbsp; Atualmente, tenho destinado meus estudos a cursos como:
    
   - **Curso de Formação em Lógica de Programação - Digital Innovation One**
   - **C# Primeiros Passos: Lógica de Programação e Algoritmos - Udemy**
   - **Fundamentos em Teste de Software - TIC em Trilhas**
+
 
     
  <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -27,6 +28,7 @@
    ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=9400d3)
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
    
  
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
