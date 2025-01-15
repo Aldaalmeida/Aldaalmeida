@@ -1,6 +1,6 @@
 <h3> 😃 &nbsp;Sobre mim </h3>
  
-💻 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para o universo da Tecnologia da Informação. Tenho interesse em atuar nas áreas de Desenvolvimento Backend e/ou Testes de Software, explorando como ambas podem trabalhar juntas para criar soluções eficientes e de qualidade. Ansiosa para programar o próximo capítulo. Let's code! 🚀 🚀.
+💻 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para o universo da Tecnologia da Informação. Tenho interesse em atuar nas áreas de Desenvolvimento Backend e Testes de Software, explorando como ambas podem trabalhar juntas para criar soluções eficientes e de qualidade. Ansiosa para programar o próximo capítulo. Let's code! 🚀 🚀.
    
 📚 &nbsp; Atualmente, tenho destinado meus estudos a cursos como:
    
