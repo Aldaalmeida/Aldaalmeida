@@ -1,14 +1,24 @@
 <h3> 😃 &nbsp;Sobre mim </h3>
- 
-💻 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para o universo da Tecnologia da Informação. Tenho interesse em atuar nas áreas de Desenvolvimento Backend e Testes de Software, explorando como ambas podem trabalhar juntas para criar soluções eficientes e de qualidade. Ansiosa para programar o próximo capítulo. Let's code! 🚀 🚀.
-   
-📚 &nbsp; Atualmente, tenho destinado meus estudos a cursos como:
-   
-  - **Curso de Formação em Lógica de Programação - Digital Innovation One**
-  - **C# Primeiros Passos: Lógica de Programação e Algoritmos - Udemy**
-  - **Fundamentos em Teste de Software - TIC em Trilhas**
 
+💻 &nbsp; Estudante de Sistemas de Informação, migrando da área de Tech Recruiter para o universo da Tecnologia da Informação.
 
+🚀 &nbsp; Estou direcionando meus estudos para **Testes de Software**, com foco em testes manuais e primeiros passos em automação. Tenho praticado a criação de roteiros, execução de testes funcionais, exploratórios e de regressão, bem como análise de evidências e organização dos resultados. Para isso, venho participando de bootcamps e cursos que fortalecem minha base técnica e ampliam minha visão sobre a área.
+
+   
+<h3> 🎓 &nbsp;Formações e Cursos </h3>
+
+**Bootcamps:**  
+- Bootcamp em Testes de Software – Matera  
+- Bootcamp em Quality Assurance – Instituto Avanti  
+
+**Cursos Complementares:**  
+- Fundamentos em Testes de Software – TIC em Trilhas  
+- Quality Assurance: Plano de Testes e Gestão de Bugs – Alura  
+- Git e GitHub: Compartilhando e Colaborando em Projetos – Alura  
+- Scrum: Agilidade em seu Projeto – Alura  
+- C# Primeiros Passos: Lógica de Programação – Udemy  
+- Introdução à Lógica de Programação – DIO  
+- Entendendo Algoritmos e Fluxogramas – DIO  
     
  <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -23,7 +33,7 @@
 </div><br/>
 
 
- **Ferramentas de Desenvolvimento**
+ **Ferramentas**
  
    ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=9400d3)
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
